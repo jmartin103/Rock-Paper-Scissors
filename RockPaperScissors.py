@@ -37,5 +37,3 @@ while True:
     elif choice == 'n' or choice == 'N':
         print("Thanks for playing! See you again next time!")
         break
-        
-#main()
